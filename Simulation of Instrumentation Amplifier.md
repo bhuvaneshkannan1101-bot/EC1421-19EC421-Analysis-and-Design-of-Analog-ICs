@@ -20,10 +20,7 @@ time delay stop time value.
 obtained.
 
 ## CIRCUIT DIAGRAM:
-
-
-
-## OUTPUT GRAPH:
+![WhatsApp Image 2025-11-28 at 4 48 06 PM](https://github.com/user-attachments/assets/697291ae-a1ff-4d00-b8eb-2d329d76225c)
 
 
 ## RESULT:
