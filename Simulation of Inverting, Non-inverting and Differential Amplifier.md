@@ -17,18 +17,13 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### INVERTING AMPLIFIER:
+![WhatsApp Image 2025-11-28 at 4 48 44 PM](https://github.com/user-attachments/assets/871cde81-f1e8-49f1-a49a-eb3fd098110e)
 
 ### NON-INVERTING AMPLIFIER:
+![WhatsApp Image 2025-11-28 at 4 48 56 PM](https://github.com/user-attachments/assets/7133e73d-9213-4ee7-a96a-3849f5cd35e9)
 
 ### DIFFERENTIAL AMPLIFIER:
-
-
-## OUTPUT GRAPH:
-### INVERTING AMPLIFIER:
-
-### NON-INVERTING AMPLIFIER:
-
-### DIFFERENTIAL AMPLIFIER:
+![WhatsApp Image 2025-11-28 at 4 49 02 PM](https://github.com/user-attachments/assets/d5e5d6d7-cb40-42dc-a15a-c6ec10d185a1)
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and inverting, non- inverting and differential amplifiers circuit is simulated.
